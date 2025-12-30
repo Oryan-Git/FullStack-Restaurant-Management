@@ -1,0 +1,20 @@
+# Dependencies - This ignores node_modules in root and all subfolders
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Production
+build/
+frontend/build/
+
+# Testing
+coverage/
+
+# Misc & OS files
+.DS_Store
+.env
+.env.local
+*.log
+
+# Editor files
+.vscode/
