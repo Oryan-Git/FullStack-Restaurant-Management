@@ -12,7 +12,7 @@ A comprehensive restaurant management platform featuring a **React** frontend an
 - **Frontend:** React (Hooks, Context-like logic), CSS3 (Grid & Flexbox).
 - **Backend:** Node.js, Express.js.
 - **Database:** PostgreSQL.
-- **Security:** CORS, Bcrypt, Middleware-based authentication.
+- **Security:** Bcrypt, Middleware-based authentication.
 
 ##  Project Structure
 - `backend/`: Express server logic, API endpoints, and database configuration.
